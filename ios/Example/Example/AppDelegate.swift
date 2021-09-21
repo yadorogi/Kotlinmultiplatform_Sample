@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Example
 //
-//  Created by stnamco on 2020/02/08.
-//  Copyright © 2020 namco. All rights reserved.
+//  Created by XXXX on 2021/09/01.
+//  Copyright © 2021 XXXX. All rights reserved.
 //
 
 import UIKit
