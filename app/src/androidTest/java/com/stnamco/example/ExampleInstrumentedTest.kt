@@ -1,4 +1,4 @@
-package com.stnamco.example
+package com.toaru-it.example
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
